@@ -3,8 +3,8 @@ C# ile geliştirilen Tez Analiz Sistemi.<br><b>Blog:</b> https://www.eminsaygi.c
 
 <b> Kullanılan Teknolojiler: </b>
 
-C#  ile geliştirilmiştir.
-Arayüz C# Form ve Devexpress ile geliştirilmiştir.
+C#  ile geliştirilmiştir.<br>
+Arayüz C# Form ve Devexpress ile geliştirilmiştir.<br>
 MVC mimari deseni kullanılmıştır.<br>
 
 <b>Kullanım kılavuzu ve Bilgi : https://github.com/eminsaygi/tezanaliz/blob/main/pd_180542017_Muhammet_Emin_Saygı.pdf
