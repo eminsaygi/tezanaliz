@@ -7,7 +7,7 @@ C#  ile geliştirilmiştir.<br>
 Arayüz C# Form ve Devexpress ile geliştirilmiştir.<br>
 MVC mimari deseni kullanılmıştır.<br>
 
-<b>Kullanım kılavuzu ve Bilgi : https://github.com/eminsaygi/tezanaliz/blob/main/pd_180542017_Muhammet_Emin_Saygı.pdf
+<b>Kullanım kılavuzu ve Bilgi : https://github.com/eminsaygi/tezanaliz/blob/main/pd_180542017_Muhammet_Emin_Saygı.pdf<br>
 <b>Kurulum Yardımı ve Tanıtım : https://youtu.be/zMHMBj-SClQ
   
 <b>Tez Analiz Sistemi içinden Görüntüler</b>
